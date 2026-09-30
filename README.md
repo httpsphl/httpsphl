@@ -3,7 +3,7 @@
 - 🔭 I'm currently building **[Botloft](https://github.com/httpsphl/botloft)** — a crew of Claude Code bots that stays on and works together on your Windows PC (Rust + Tauri + React)
 - 🌱 I'm currently learning **Rust** and **Windows internals**
 - 🎨 I design what I build: interfaces, motion and product
-- 📫 How to reach me: **codezaph@gmail.com**
+- 📫 How to reach me: **euphelipelorran@gmail.com**
 
 <div align="center">
   <a href="https://github.com/httpsphl">
