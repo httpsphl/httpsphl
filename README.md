@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DDDD&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I'm+Phelipe+Lorran,+Full+Stack+Dev+%26+Designer.)](https://git.io/typing-svg)
 
-- 🔭 I'm currently building **[Botloft](https://github.com/httpsphl/botloft)** — a crew of Claude Code bots that stays on and works together on your Windows PC (Rust + Tauri + React)
+- 🔭 I'm currently building **[Botloft](https://github.com/httpsphl/botloft)** - a crew of Claude Code bots that stays on and works together on your Windows PC (Rust + Tauri + React)
 - 🌱 I'm currently learning **Rust** and **Windows internals**
 - 🎨 I design what I build: interfaces, motion and product
 - 📫 How to reach me: **euphelipelorran@gmail.com**
