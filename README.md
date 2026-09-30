@@ -6,8 +6,10 @@
 - 📫 How to reach me: **euphelipelorran@gmail.com**
 
 <div align="center">
+  <a href="https://github.com/httpsphl/botloft">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/pin/?username=httpsphl&repo=botloft&theme=dark"/>
+  </a>
   <a href="https://github.com/httpsphl">
-  <img height="165em" src="https://streak-stats.demolab.com/?user=httpsphl&theme=dark&hide_border=false"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsphl&theme=dark&layout=compact"/>
   </a>
 </div>
